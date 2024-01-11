@@ -1,0 +1,11 @@
+{
+    "name": "Github data of Particular User",
+    "version": "1.0.0",
+    "description": "Github Data",
+    "manifest_version": 3,
+    "author": "Shoaib Khan!",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Building the latest extension!"
+    }
+}
